@@ -1,4 +1,4 @@
-# ⬡ GlassBox GPT
+# ⬡ Requiem GPT
 
 **A language model you can see through.**
 
