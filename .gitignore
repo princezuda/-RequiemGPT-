@@ -1,0 +1,6 @@
+# training data and run outputs (the shipped artifacts in weights/ and dist/ ARE committed)
+data/
+out/
+__pycache__/
+*.pyc
+.DS_Store
